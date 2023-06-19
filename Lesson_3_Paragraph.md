@@ -26,8 +26,6 @@ Output:
 
 This paragraph contains a lot of lines in the source code, but the browser ignores it.
 
-This paragraph contains a lot of spaces in the source code, but the browser ignores it.
-
 Note:
 
 To create random paragraphs that doesn’t mean anything , there are various websites to use:
